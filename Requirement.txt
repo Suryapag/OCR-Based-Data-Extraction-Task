@@ -1,0 +1,7 @@
+os
+cv2
+pytesseract
+json
+psycopg2
+re
+mysql.connector
